@@ -17,7 +17,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/gotob"
         android:layout_width="171dp"
         android:layout_height="63dp"
         android:layout_marginBottom="40dp"
@@ -34,7 +34,7 @@
         android:layout_marginStart="168dp"
         android:layout_marginLeft="168dp"
         android:layout_marginBottom="416dp"
-        app:layout_constraintBottom_toTopOf="@+id/button9"
+        app:layout_constraintBottom_toTopOf="@+id/gotob"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/vector_resim" />
 
